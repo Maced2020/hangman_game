@@ -10,4 +10,4 @@ pick letters trying to guess the word that fits the given blanks
 
 ### Special Features
 
-when loading the game a new word will be selected at random from the 'words' list
+when loading the game a new word will be selected at random from the 'words.txt' list
